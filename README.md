@@ -17,7 +17,7 @@ Karla Ramos [[GitHub Profile](https://github.com/Karlavramos)]
 EDS223-HW2
 │   README.md
 │   HW2.qmd
-│   Rmd/Proj files    
+│   HW2.pdf   
 │
 └───.gitignore
      └───data
