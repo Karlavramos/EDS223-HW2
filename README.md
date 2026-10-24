@@ -1,7 +1,7 @@
 # **"Exploring patterns of environmental justice and historical redlining in LA"**
 
+<img width="1948" height="780" alt="01-redlining-maps-los-angeles" src="https://github.com/user-attachments/assets/37a809d6-e4d2-41dd-b8a5-5630d93315f3" />
 
-<img width="1280" height="720" alt="redlining_photo_la_-_casey" src="https://github.com/user-attachments/assets/86ee2f36-f751-44b4-b81e-19fd433db561" />
 
 #### Author: 
 
