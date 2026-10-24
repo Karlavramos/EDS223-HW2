@@ -1,8 +1,9 @@
-# **Title**
+# **"Exploring patterns of environmental justice and historical redlining in LA"**
 
 
+<img width="848" height="284" alt="kcet brightspotcdn" src="https://github.com/user-attachments/assets/03d943ba-6f21-4ada-8099-bd7fbb22f54d" />
+https://www.pbssocal.org/shows/lost-la/segregation-in-the-city-of-angels-a-1939-map-of-housing-inequality-in-l-a
 
-<img width="848" height="608" alt="kcet brightspotcdn" src="https://github.com/user-attachments/assets/9214d30b-f60a-434f-bfb6-6b5f50542d34" />
 
 #### Author: 
 
