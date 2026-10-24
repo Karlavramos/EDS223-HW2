@@ -8,9 +8,9 @@
 Karla Ramos [[GitHub Profile](https://github.com/Karlavramos)]
 
 ## General Summary
-This repository purpose is to contain all documents used to exploring patterns of environmental justice in historical HOLC grade systems also referred to as "redlining" and reflect on how it maybe impacting current day issues in marginalized communities. 
+This repository contains all documents used to explore patterns of environmental justice within historical HOLC grades, also known as "redlining," and to reflect on how redlining may be affecting present-day issues in marginalized communities.
 
-## Repository Content
+## Repository Contents
 
 ```{r}
 
@@ -27,12 +27,12 @@ EDS223-HW2
 ```
 
 
-## Data 
-EJScreen provides on environmental and demographic information for the US at the Census tract and block group levels. The data used is from Environmental Justice Screening Mapping and Tool from July 2023. 
+## Data
+**EJScreen:** The EPA's Environmental Justice Screening and Mapping Tool (EJScreen) provides environmental and demographic information for the United States at the census tract and block group levels. This analysis uses the July 2023 version.
 
-Mapping Inequality: Redlining in New Deal America, Digital Scholarship Lab, University of Richmond. [Data](https://dsl.richmond.edu/panorama/redlining/data). 
+**Mapping Inequality:** Mapping Inequality: Redlining in New Deal America, Digital Scholarship Lab, University of Richmond. [Data](https://dsl.richmond.edu/panorama/redlining/data).
 
-Statewide Integrated Traffic Records System (SWITRS), accessed via the [Transportation Injury Mapping System (TIMS)](https://tims.berkeley.edu/), Safe Transportation Research and Education Center (SafeTREC), UC Berkeley.
+**SWITRS:** Statewide Integrated Traffic Records System (SWITRS), accessed via the [Transportation Injury Mapping System (TIMS)](https://tims.berkeley.edu/), Safe Transportation Research and Education Center (SafeTREC), UC Berkeley.
 
 Data provided by Annie Adams, Bren School of Environmental Science & Management, [University of California, Santa Barbara], via [EDS 223: Geospatial Analysis & Remote Sensing], [October 2026]
 
@@ -45,3 +45,4 @@ This is an unofficial copy of EJScreen hosted by the Public Environmental Data P
 ## Acknowledgments
 
 This analysis was completed as part of [EDS 223: Geospatial Analysis & Remote Sensing](https://eds-223-geospatial.github.io/), Master of Environmental Data Science, UC Santa Barbara. Assignment details: [Homework 2](https://eds-223-geospatial.github.io/assignments/HW2V2.html).
+
