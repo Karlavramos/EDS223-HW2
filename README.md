@@ -33,7 +33,6 @@ EJScreen provides on environmental and demographic information for the US at the
 Mapping Inequality: Redlining in New Deal America, Digital Scholarship Lab, University of Richmond. [Data](https://dsl.richmond.edu/panorama/redlining/data). 
 
 Statewide Integrated Traffic Records System (SWITRS), accessed via the [Transportation Injury Mapping System (TIMS)](https://tims.berkeley.edu/), Safe Transportation Research and Education Center (SafeTREC), UC Berkeley.
-  - Codebook: [SWITRS Codebook](https://tims.berkeley.edu/help/crashdata/switrs-codebook.php)
 
 Data provided by Annie Adams, Bren School of Environmental Science & Management, [University of California, Santa Barbara], via [EDS 223: Geospatial Analysis & Remote Sensing], [October 2026]
 
